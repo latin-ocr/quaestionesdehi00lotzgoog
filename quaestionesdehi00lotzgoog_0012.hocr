@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesdehi00lotzgoog_0012.png"; bbox 0 0 3310 5126; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 386 1601 1085 1674">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 386 1601 1085 1674">
+     <span class='ocr_line' id='line_1_1' title="bbox 386 1601 1085 1674; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 386 1601 661 1674; x_wconf 85' lang='lat' dir='ltr'><strong>MAGISTRO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 684 1602 781 1673; x_wconf 88' lang='lat' dir='ltr'>SUO</span> <span class='ocrx_word' id='word_1_3' title='bbox 810 1601 1085 1674; x_wconf 84' lang='lat' dir='ltr'><strong>CARISSIMO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 198 1768 1268 1951">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 198 1768 1268 1951">
+     <span class='ocr_line' id='line_1_2' title="bbox 198 1768 1268 1951; baseline 0.003 -3"><span class='ocrx_word' id='word_1_4' title='bbox 198 1830 664 1951; x_wconf 71' lang='lat' dir='ltr'>FRANolsoo</span> <span class='ocrx_word' id='word_1_5' title='bbox 699 1768 1268 1951; x_wconf 73' lang='lat' dir='ltr'>DELITzsofflo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 367 2223 1109 2381">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 367 2223 1109 2381">
+     <span class='ocr_line' id='line_1_3' title="bbox 367 2223 1109 2381; baseline 0.003 -5"><span class='ocrx_word' id='word_1_6' title='bbox 367 2279 532 2379; x_wconf 75' lang='lat' dir='ltr'><strong>ANnffl</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 561 2223 761 2381; x_wconf 75' lang='lat' dir='ltr'>PIGNUS</span> <span class='ocrx_word' id='word_1_8' title='bbox 793 2269 1109 2380; x_wconf 70' lang='lat' dir='ltr'>Gssfflssffll</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 587 2741 885 2826">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 587 2741 885 2826">
+     <span class='ocr_line' id='line_1_4' title="bbox 587 2741 885 2826; baseline 0.007 -4"><span class='ocrx_word' id='word_1_9' title='bbox 587 2741 885 2826; x_wconf 79' lang='lat' dir='ltr'><strong>AUCTOR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1660 5126">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1660 5126">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1660 5126; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1660 5126; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
